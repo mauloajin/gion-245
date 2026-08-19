@@ -25,6 +25,9 @@ export const metadata = {
     description: "京都・祇園で味わう、季節のジャパニーズイタリアン。",
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM",
+  },
 };
 
 export default function RootLayout({ children }) {
